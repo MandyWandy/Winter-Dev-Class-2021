@@ -1,0 +1,29 @@
+body {
+    color:#000000;
+background-color: #FAEBD7;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+   font-family: cursive;
+    text-decoration: underline;
+    color:blue;
+}
+
+h2 {
+    color:green;
+}
+#html-anatomy-heading {
+    color:red;
+}
+.underline{
+    text-decoration: underline;
+}
+.bold {
+    font-weight: bold;
+}
+
+#introduction-ps {
+    font-style: italic;
+    font-size: 1em;
+}
